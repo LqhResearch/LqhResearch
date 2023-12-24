@@ -97,7 +97,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Gitlab" width="40" height="40" />
     </a>
     <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual studio" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" />
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" />
@@ -112,13 +112,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" />
     </a>
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual studio code" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
     </a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android studio" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" />
     </a>
     <a href="https://www.heroku.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="40" height="40" />
@@ -140,7 +140,7 @@
 ## 📊 My Github Stats
 <div align="center">
     <a href="https://github.com/LqhResearch">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=LqhResearch&count_private=true&show_icons=true&theme=algolia&border_radius=20" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=LqhResearch&count_private=true&show_icons=true&theme=algolia&border_radius=20&rank_icon=percentile" />
         <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=LqhResearch&langs_count=8&layout=compact&theme=algolia&border_radius=20" />
     </a>
 </div>
@@ -153,15 +153,9 @@
 ## Connect with me
 <div align="left">
     <a href="mailto:lqhung.max@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.facebook.com/lqhung21" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-4867AA?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-    </a>
-    <a href="https://github.com/LqhResearch" target="_blank">
-        <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/gitlab-360D71.svg?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-4867AA?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
 </div>
