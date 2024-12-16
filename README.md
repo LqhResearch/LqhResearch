@@ -155,7 +155,4 @@
     <a href="mailto:lqhung.max@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.facebook.com/lqhung21" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-4867AA?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
 </div>
